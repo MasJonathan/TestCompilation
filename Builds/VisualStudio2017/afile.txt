@@ -1,0 +1,6 @@
+
+#define OC_VERSION "1.0.0"
+
+string = OC_VERSION
+
+blalbla
