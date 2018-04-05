@@ -1,1 +1,1 @@
-git-bash git rebase
+git rebase

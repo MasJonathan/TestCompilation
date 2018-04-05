@@ -1,4 +1,4 @@
-git-bash rebase
+git rebase
 :projucer.exe --get-version TestCompilation.jucer 
 :projucer.exe --set-version 1.0.0 TestCompilation.jucer 
 projucer.exe --resave TestCompilation.jucer 

@@ -1,1 +1,1 @@
-git-bash git fetch origin
+git fetch origin
